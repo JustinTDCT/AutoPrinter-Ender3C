@@ -1,4 +1,4 @@
 # Klipper-Backup 💾 
-Klipper backup script for manual or automated GitHub backups 
+Automated backups of Ender3-C 
 
 This backup is provided by [Klipper-Backup](https://github.com/Staubgeborener/klipper-backup).
